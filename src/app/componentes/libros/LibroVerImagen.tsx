@@ -1,7 +1,7 @@
 export const LibroVerImagen = () => {
     return (
         <>
-        Soy libros actualizar <br />
+        Soy libro ver imagen <br />
         Libros....
         </>
     );
